@@ -10,8 +10,15 @@ with over four years of experience in technologies such as JavaScript and using 
 
 Last projects:
 
-<h4><a href="https://ferchodeleon.github.io/">🛒 Shopi</a></h4>
+<h4><a href="https://ferchodeleon.github.io/shopi/">🛒 Shopi</a></h4>
 
 This app is built with ReactJS and Tailwind version 4, uses React Context for state changes, and consumes a public API to retrieve item photos, names, and prices.
 You can review my code here
+
 ![Logo](https://raw.githubusercontent.com/ferchodeleon/ferchodeleon/refs/heads/main/assets/images/shopi-image.png)
+
+<h4><a href="https://www.nxtwave.band/">🛒 Nxtwave</a></h4>
+
+This page is a landing page about the band Nxtwave, create with ReactJS.
+
+![Logo](https://raw.githubusercontent.com/ferchodeleon/ferchodeleon/refs/heads/main/assets/images/nxtwave.png)

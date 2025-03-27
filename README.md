@@ -1,16 +1,17 @@
-## Hi there 👋
+![Header](https://raw.githubusercontent.com/ferchodeleon/ferchodeleon/refs/heads/main/assets/images/portrait-fer.png)
 
-<!--
-**ferchodeleon/ferchodeleon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi!, My name is Fernando de León
 
-Here are some ideas to get you started:
+#### I'm Frontend developer and Web Designer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+with over four years of experience in technologies such as JavaScript and using the ReactJS framework, I also have extensive knowledge and experience in HTML and CSS design, integrating APIs into front-end development, while also focusing on page optimization and accessibility
+
+## 🚀 Projects:
+
+Last projects:
+
+<h4><a href="https://ferchodeleon.github.io/">🛒 Shopi</a></h4>
+
+This app is built with ReactJS and Tailwind version 4, uses React Context for state changes, and consumes a public API to retrieve item photos, names, and prices.
+You can review my code here
+![Logo](https://raw.githubusercontent.com/ferchodeleon/ferchodeleon/refs/heads/main/assets/images/shopi-image.png)
